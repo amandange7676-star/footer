@@ -1,0 +1,3 @@
+# footer
+
+Repository initialized automatically.
